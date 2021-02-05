@@ -79,7 +79,7 @@ function generateMarkdown(answers) {
   * [ Installation ](#Installation)
   * [ Usage ](#Usage)
   * [ Credits ](#Credits)
-  * [ Contribution Guidline ](#Contribution-Guidline)
+  * [ Contribution Guideline ](#Contribution-Guideline)
   * [ Tests ](#Tests)
   * [ Questions ](#Questions)
   * [ License ](#License)
@@ -91,7 +91,7 @@ function generateMarkdown(answers) {
   ${answers.usage}
 
   ### Screenshots
-  ${answers.imageURL}
+  ![Alt text](${answers.imageURL})
   
   ## Contribution Guideline
   ${renderContribution(answers.contributionConfirm, answers.contribution)}
@@ -104,7 +104,7 @@ function generateMarkdown(answers) {
 
   ## Questions
   Contact the author with any questions!<br>
-  Author: ${answers.authorName}
+  Author: ${answers.authorName}<br>
   Github link: [${answers.username
 		.trim()
 		.toLowerCase()}](https://github.com/${answers.username.trim().toLowerCase()})<br>
