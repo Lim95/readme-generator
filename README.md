@@ -15,13 +15,16 @@
   * [ License ](#License)
 
   ## Installation
-  Visit https://github.com/Lim95/readme-generator and clone the project to your local folder or download the zip fileand unzip it
+  Visit https://github.com/Lim95/readme-generator and clone the project to your local folder or download the zip file and unzip it
 
   ## Usage 
   You must download node.js and inquirer npm before using this application. Also if you are using Windows, gitbash is also required. If you already have those ready, open the terminal and locate to the root of this project where index.js file is located. Then in the terminal, type "node index.js" and answer questions
 
   ### Screenshots
   ./assets/images/screenshot.png
+  
+  ### Walk-through video link
+  https://drive.google.com/file/d/1U3kgLrt7A-sy7rLSg13U9o2IX2P7k6jK/view
   
   ## Contribution Guideline
   [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
@@ -34,7 +37,7 @@
 
   ## Questions
   Contact the author with any questions!<br>
-  Author: Richard Lim
+  Author: Richard Lim <br>
   Github link: [lim95](https://github.com/lim95)<br>
   Email address: sungjoon.lim@gmail.com
 
