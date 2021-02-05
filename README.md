@@ -21,7 +21,7 @@
   You must download node.js and inquirer npm before using this application. Also if you are using Windows, gitbash is also required. If you already have those ready, open the terminal and locate to the root of this project where index.js file is located. Then in the terminal, type "node index.js" and answer questions
 
   ### Screenshots
-  ./assets/images/screenshot.png
+  ![Alt text](./assets/images/screenshot.png)
   
   ### Walk-through video link
   https://drive.google.com/file/d/1U3kgLrt7A-sy7rLSg13U9o2IX2P7k6jK/view
